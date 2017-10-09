@@ -4,6 +4,8 @@
 	 yg akan dieksekusi.
 
 	 digunakan untuk migrasi dari database lama ke database baru dengan struktur yang telah berbeda / RELASI
+
+	 akan mengenerate all files into .txt
 	 -->
 <?php
 	//konek database old_db dan new_db
